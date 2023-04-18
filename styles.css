@@ -1,8 +1,7 @@
 
-/* Your CSS Code here. */
+/* /* Your CSS Code here. * */
 .holder{
-	display:flax;
-	aline-item:center;
-	justify-contant:center;
-	
+	display: flex;
+  justify-content: center;
+  align-items: center;
 }
